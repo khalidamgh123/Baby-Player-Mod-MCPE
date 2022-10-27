@@ -1,6 +1,6 @@
 {
 	"ADS": {
-		 "rewarde_type": "admob",
+		 "rewarde_type": "ironsource",
 		"native_type": "admob",
 		"inter_type": "unity",
 		"banner_type": "yandex",
@@ -18,11 +18,11 @@
 		"cpa_popup_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_popup_time": 1,
 
-		"unity_id": "4292105",
+		"unity_id": "4873217",
 
 		"appodeal_app_key": "6183fe1ebbf93709010652b765ea2c232fe3ab59d8b5f27a",
 
-		"ironsource_id": "12824078d",
+		"ironsource_id": "1639eb565",
 
 		"interstitial_yandex": "adf-279013/966533",
 		"banner_yandex": "R-M-1798872-9",
